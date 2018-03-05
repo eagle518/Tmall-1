@@ -52,7 +52,9 @@ ul{list-style: none;}
 	z-index: 99;
 	display: none;
 }
-
+.dropmenu li span{
+	margin-left: 10px;
+}
 
 /*.top .pull-right b{
 	border-width: 3px;
@@ -613,7 +615,7 @@ ul{list-style: none;}
 }
 .footer-bottom span{
 	color: #a4a4a4;
-	margin-right: 70px;
+	margin-right: 55px;
 	cursor: pointer;
 	line-height: 25px;
 }
